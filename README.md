@@ -7,3 +7,4 @@ A model to predict whether an individual will not take the seasonal flu vaccine 
 Data source: Data from the CDC National 2009 H1N1 Flu Survey (NHFS): a list-assisted random-digit dialing telephone survey conducted in the 2009-10 flu season.
 https://www.cdc.gov/nchs/nis/data_files_h1n1.htm
 Features are: Demographic, behavioral, and health information such as age, education, race, occupation, gender, marital status, income, geographic region, health behaviors, household income.
+Tools used: Jupyter Notebook, Matplotlib, Seaborn, Scikit Learn, Numpy, Pandas, Google Slides.
